@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 ## 🏅 Certifications
 
 - **GitHub Advanced Security Certification (GH-500)**
-Issued by GitHub  
+  Issued by GitHub  
   🔗 https://learn.microsoft.com/api/credentials/share/en-us/HugoCalzadaMartin-8906/3329E02740334A94?sharingId=E292451E607BF7B
   
 - **GitHub Administration Certification (GH-100)**
-Issued by GitHub  
+  Issued by GitHub  
   🔗 https://learn.microsoft.com/api/credentials/share/en-us/HugoCalzadaMartin-8906/2CF3DA886DA2C884?sharingId=E292451E607BF7B
 
 - **GitHub Copilot Certification (GH-300)**  
-Issued by GitHub  
+  Issued by GitHub  
   🔗 https://learn.microsoft.com/api/credentials/share/en-us/HugoCalzadaMartin-8906/2CF3DA886DA2C884?sharingId=E292451E607BF7B
   
 - **GitHub Foundations Certification (GH-900)**
