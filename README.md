@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   Issued by GitHub  
   🔗 https://learn.microsoft.com/api/credentials/share/en-us/HugoCalzadaMartin-8906/2CF3DA886DA2C884?sharingId=E292451E607BF7B
 
-- **GitHub Copilot Certification (GH-300)**  
+- **GitHub Copilot Certification (GH-300)**
   Issued by GitHub  
   🔗 https://learn.microsoft.com/api/credentials/share/en-us/HugoCalzadaMartin-8906/2CF3DA886DA2C884?sharingId=E292451E607BF7B
   
